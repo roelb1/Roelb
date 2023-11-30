@@ -5,6 +5,7 @@ mod HelloStarknet {
 
 #test
 #teat
+#test
     #[event]
     fn Hello(from: ContractAddress, value: felt252) {}
 
